@@ -1,0 +1,10 @@
+core/keys.json
+
+.venv
+.env
+__pycache__
+
+.vscode
+
+core-data
+core-logs
